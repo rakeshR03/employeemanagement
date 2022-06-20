@@ -2,7 +2,7 @@
 
 Entity: Employee, Professor, Department
 
-##Functionalities
+## Functionalities
 
 1>crud operations(create, read, update and delete).
 
